@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-sticker-app/static/css/main.76a86026.chunk.css",
+    "main.js": "/react-sticker-app/static/js/main.3577c2eb.chunk.js",
+    "main.js.map": "/react-sticker-app/static/js/main.3577c2eb.chunk.js.map",
+    "runtime-main.js": "/react-sticker-app/static/js/runtime-main.fa24029c.js",
+    "runtime-main.js.map": "/react-sticker-app/static/js/runtime-main.fa24029c.js.map",
+    "static/css/2.11829350.chunk.css": "/react-sticker-app/static/css/2.11829350.chunk.css",
+    "static/js/2.6a046bdb.chunk.js": "/react-sticker-app/static/js/2.6a046bdb.chunk.js",
+    "static/js/2.6a046bdb.chunk.js.map": "/react-sticker-app/static/js/2.6a046bdb.chunk.js.map",
+    "index.html": "/react-sticker-app/index.html",
+    "precache-manifest.4a144c3fc3cc92b5ceeee6128e62893f.js": "/react-sticker-app/precache-manifest.4a144c3fc3cc92b5ceeee6128e62893f.js",
+    "service-worker.js": "/react-sticker-app/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/react-sticker-app/static/css/2.11829350.chunk.css.map",
+    "static/css/main.76a86026.chunk.css.map": "/react-sticker-app/static/css/main.76a86026.chunk.css.map",
+    "static/js/2.6a046bdb.chunk.js.LICENSE.txt": "/react-sticker-app/static/js/2.6a046bdb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa24029c.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.6a046bdb.chunk.js",
+    "static/css/main.76a86026.chunk.css",
+    "static/js/main.3577c2eb.chunk.js"
+  ]
+}
